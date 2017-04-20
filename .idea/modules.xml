@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hwork.iml" filepath="$PROJECT_DIR$/.idea/modules/hwork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hwork_main.iml" filepath="$PROJECT_DIR$/.idea/modules/hwork_main.iml" group="hwork" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hwork_test.iml" filepath="$PROJECT_DIR$/.idea/modules/hwork_test.iml" group="hwork" />
+    </modules>
+  </component>
+</project>
