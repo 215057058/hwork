@@ -10,6 +10,30 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/hwork" />
+            <option value="$PROJECT_DIR$/hwork_frame_core_service" />
+            <option value="$PROJECT_DIR$/hwork_frame_core_web" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/hwork_frame_core_service" />
+        <option name="gradleHome" value="F:/person/hwork/gradle-3.5-all/gradle-3.5" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/hwork_frame_core_service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/hwork_frame_core_web" />
+        <option name="gradleHome" value="F:/person/hwork/gradle-3.5-all/gradle-3.5" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/hwork_frame_core_web" />
           </set>
         </option>
       </GradleProjectSettings>

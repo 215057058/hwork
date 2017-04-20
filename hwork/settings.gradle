@@ -1,2 +1,3 @@
 rootProject.name = 'hwork'
+includeFlat 'hwork_frame_core_service','hwork_frame_core_web'
 
