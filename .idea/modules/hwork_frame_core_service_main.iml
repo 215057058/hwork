@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module external.linked.project.id="hwork_frame_core_service:main" external.linked.project.path="$MODULE_DIR$/../../hwork_frame_core_service" external.root.project.path="$MODULE_DIR$/../../hwork_frame_core_service" external.system.id="GRADLE" external.system.module.group="com.hwork" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
-  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8" inherit-compiler-output="false">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration>
+        <fileset id="fileset" name="Spring Application Context" removed="false">
+          <file>file://$MODULE_DIR$/../../hwork_frame_core_service/src/main/resources/springMVC-sysconfig.xml</file>
+          <file>file://$MODULE_DIR$/../../hwork_frame_core_service/src/main/resources/applicationContext-sysconfig.xml</file>
+          <file>file://$MODULE_DIR$/../../hwork_frame_core_service/src/main/java/com/hwork/frame/spring/cfg/RootConfig.java</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_5" inherit-compiler-output="false">
     <output url="file://$MODULE_DIR$/../../hwork_frame_core_service/build/classes/main" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../hwork_frame_core_service/src/main">
@@ -9,29 +20,5 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.springframework:spring-context:4.3.8.RELEASE" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.springframework:spring-webmvc:4.3.8.RELEASE" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.springframework:spring-test:4.3.8.RELEASE" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.springframework:spring-aspects:4.3.8.RELEASE" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.springframework:spring-oxm:4.3.8.RELEASE" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.springframework:spring-jdbc:4.3.8.RELEASE" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.slf4j:jcl-over-slf4j:1.7.25" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.slf4j:slf4j-api:1.7.25" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.slf4j:slf4j-log4j12:1.7.25" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Gradle: log4j:log4j:1.2.17" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.thymeleaf:thymeleaf:3.0.5.RELEASE" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.thymeleaf:thymeleaf-spring4:3.0.5.RELEASE" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Gradle: commons-io:commons-io:2.5" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.springframework:spring-aop:4.3.8.RELEASE" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.springframework:spring-beans:4.3.8.RELEASE" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.springframework:spring-core:4.3.8.RELEASE" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.springframework:spring-expression:4.3.8.RELEASE" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.springframework:spring-web:4.3.8.RELEASE" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.aspectj:aspectjweaver:1.8.9" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.springframework:spring-tx:4.3.8.RELEASE" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Gradle: ognl:ognl:3.1.12" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.attoparser:attoparser:2.0.3.RELEASE" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.unbescape:unbescape:1.1.4.RELEASE" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.javassist:javassist:3.20.0-GA" level="project" />
   </component>
 </module>
