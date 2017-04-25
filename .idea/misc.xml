@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/hwork" />
+    <file type="web" url="file://$PROJECT_DIR$/hwork_busi_sample_web" />
+    <file type="web" url="file://$PROJECT_DIR$/hwork_busi_sys_service" />
+    <file type="web" url="file://$PROJECT_DIR$/hwork_busi_sys_web" />
     <file type="web" url="file://$PROJECT_DIR$/hwork_frame_core_web" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/components/pom.xml" />
+        <option value="$PROJECT_DIR$/parent/pom.xml" />
       </list>
     </option>
   </component>

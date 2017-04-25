@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="hwork_busi_sys_service:war">
+    <output-path>$PROJECT_DIR$/hwork_busi_sys_service/target</output-path>
+    <root id="archive" name="hwork_busi_sys_service.war">
+      <element id="artifact" artifact-name="hwork_busi_sys_service:war exploded" />
+    </root>
+  </artifact>
+</component>

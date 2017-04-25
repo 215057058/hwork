@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/components/components.iml" filepath="$PROJECT_DIR$/components/components.iml" />
-      <module fileurl="file://$PROJECT_DIR$/hwork_frame_core/hwork_frame_core.iml" filepath="$PROJECT_DIR$/hwork_frame_core/hwork_frame_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hwork/hwork.iml" filepath="$PROJECT_DIR$/hwork/hwork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hwork_busi_sample_service/hwork_busi_sample_service.iml" filepath="$PROJECT_DIR$/hwork_busi_sample_service/hwork_busi_sample_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hwork_busi_sample_web/hwork_busi_sample_web.iml" filepath="$PROJECT_DIR$/hwork_busi_sample_web/hwork_busi_sample_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hwork_frame_core_service/hwork_frame_core_service.iml" filepath="$PROJECT_DIR$/hwork_frame_core_service/hwork_frame_core_service.iml" />
       <module fileurl="file://$PROJECT_DIR$/hwork_frame_core_web/hwork_frame_core_web.iml" filepath="$PROJECT_DIR$/hwork_frame_core_web/hwork_frame_core_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hwork_frame_mybatis_service/hwork_frame_mybatis_service.iml" filepath="$PROJECT_DIR$/hwork_frame_mybatis_service/hwork_frame_mybatis_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent/parent.iml" filepath="$PROJECT_DIR$/parent/parent.iml" />
     </modules>
   </component>
 </project>
